@@ -51,3 +51,20 @@ This project was built to practice core programming concepts such as:
 
 It demonstrates how fundamental C++ programming can be applied to model
 a real banking system workflow in a structured and maintainable way.
+---
+
+## 🖥 How to Build and Run
+
+1. Clone the repository:
+   git clone https://github.com/Zeyad-101/ATM-System-Simulation.git
+
+2. Open `ATM System.sln` in Visual Studio.
+
+3. Select configuration:
+   → Debug | x64  (or Win32)
+
+4. Build the solution:
+   Ctrl + Shift + B
+
+5. Run without debugging:
+   Ctrl + F5
