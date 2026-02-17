@@ -1,0 +1,9 @@
+# Visual Studio generated files
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.VC.db
+*.opendb
+*.sqlite
