@@ -21,7 +21,7 @@ operations through a simple interface.
 ---
 ## Screenshots
 
-![WelcomePage](screenshots/Welcomepage.jpg)
+![WelcomePage](screenshots/Welcomepage.png)
 ![LoginPage](screenshots/Loginpage.png)
 ![MainMenu](screenshots/Mainmenu.png)
 
