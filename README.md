@@ -19,6 +19,13 @@ operations through a simple interface.
 - Object-Oriented Programming (OOP) design
 
 ---
+## Screenshots
+
+![WelcomePage](screenshots/WelcomePage.png)
+![LoginPage](screenshots/LoginPage.png)
+![MainMenu](screenshots/MainMenu.png)
+
+---
 
 ## 🛠 Technologies Used
 
